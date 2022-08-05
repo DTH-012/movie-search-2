@@ -1,0 +1,66 @@
+{
+    "languageCode": "en-US",
+    "piGridColumns": {
+        "fileName": "File Name",
+        "status": "Status",
+        "period": "Period",
+        "transactionDate": "Transaction Date",
+        "account": "Account",
+        "name": "Name",
+        "vatReg": "VAT Reg",
+        "details": "Details",
+        "total": "Total",
+        "vatType": "VAT Type"
+    },
+    "ownerLookup": {
+        "title": "Owner - Lookup",
+        "columns": {
+            "code": "A/C Code",
+            "name": "Name"
+        },
+        "buttons": {
+            "add": "Add",
+            "change": "Change",
+            "view": "View",
+            "ledger": "Ledger",
+            "select": "Select",
+            "close": "Close"
+        },
+        "labels": {
+            "displaySupplier": "Display Supplier",
+            "displayDormant": "Display Dormant Suppliers",
+            "displayAgedBalances": "Display Aged Balances"
+        },
+        "details": {
+            "address": "Address",
+            "email": "Email",
+            "type": "Type",
+            "phone": "Phone",
+            "vatReg": "VAT Reg",
+            "ourCode": "Our Code"
+        }
+    },
+    "formLabels": {
+        "date": "Date",
+        "reference": "Reference",
+        "account": "Account",
+        "name": "Name",
+        "detail": "Detail",
+        "total": "Total",
+        "totalVat": "Total VAT",
+        "vatType": "VAT Type",
+        "vatAnalysis": "VAT analysis"
+    },
+    "buttons": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "copyExistingEntry": "Copy Existing entry"
+    },
+    "titles": {
+        "addSaleEntry": "Add a Sales Book Entry"
+    },
+    "validationMessages": {
+        "required": "This field is required",
+        "invalidDecimal": "Please enter a valid decimal"
+    }
+}

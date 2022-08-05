@@ -1,0 +1,66 @@
+{
+    "languageCode": "sv-SE",
+    "piGridColumns": {
+        "fileName": "Filnavn",
+        "status": "Status",
+        "period": "Periode",
+        "transactionDate": "Transaksjonsdato",
+        "account": "Konto",
+        "name": "Navn",
+        "vatReg": "VAT Reg",
+        "details": "Detaljer",
+        "total": "Total",
+        "vatType": "VAT Type"
+    },
+    "ownerLookup": {
+        "title": "Ägare - Slå upp",
+        "columns": {
+            "code": "Kontokod",
+            "name": "Namn"
+        },
+        "buttons": {
+            "add": "Lägg till",
+            "change": "Förändra",
+            "view": "Se",
+            "ledger": "Huvudbok",
+            "select": "Välj",
+            "close": "Stänga"
+        },
+        "labels": {
+            "displaySupplier": "Display leverantör",
+            "displayDormant": "Visa vilande leverantörer",
+            "displayAgedBalances": "Visa åldrade saldon"
+        },
+        "details": {
+            "address": "Adress",
+            "email": "E-post",
+            "type": "Typ",
+            "phone": "Telefon",
+            "vatReg": "VAT Reg",
+            "ourCode": "Vår kod"
+        }
+    },
+    "formLabels": {
+        "date": "Datum",
+        "reference": "Referens",
+        "account": "Konto",
+        "name": "Namn",
+        "detail": "Detalj",
+        "total": "Total",
+        "totalVat": "Total moms",
+        "vatType": "Momstyp",
+        "vatAnalysis": "Momsanalys"
+    },
+    "buttons": {
+        "save": "Spara",
+        "cancel": "Avboka",
+        "copyExistingEntry": "Kopiera befintlig post"
+    },
+    "titles": {
+        "addSaleEntry": "Lägg till en försäljningsbokpost"
+    },
+    "validationMessages": {
+        "required": "Detta fält är obligatoriskt",
+        "invalidDecimal": "Ange en giltig decimal"
+    }
+}
